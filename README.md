@@ -93,7 +93,3 @@ I enjoy building interactive tools that simplify complex systems and make learni
 *   [GitHub](https://github.com/MichaelF102)
 *   [LinkedIn](https://www.linkedin.com/in/michael-fernandes-7a3b6227a/)
 
----
-
-## ⚖️ License
-This project is licensed under the MIT License - see the LICENSE file for details.
